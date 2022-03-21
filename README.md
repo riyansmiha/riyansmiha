@@ -1,5 +1,4 @@
 - 👋 Hi, I’m riyansmiha
-- 🔭 I’m currently working as a Jr. software Engineer at TigerIT Bangladesh
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on python project🤝
 - 📫 How to reach me srsajib76@gmail.com💌
