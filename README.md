@@ -1,5 +1,5 @@
 - 👋 Hi, I’m riyansmiha
-- 🌱 I’m currently learning Automation
+- 🌱 Automation Engineer
 - 💞️ I’m looking to collaborate on python project🤝
 - 📫 How to reach me srsajib76@gmail.com💌
 
